@@ -1,5 +1,7 @@
 info for app.js
 
+This is what happens in the browser: 
+
 window which loads a function
 
 controllers for model, view and logic.
