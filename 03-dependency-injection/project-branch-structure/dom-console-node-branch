@@ -2,8 +2,27 @@ This branch is the main page for "dom-console-node" folder.
 
 README.md
 * About this code
+
+This code is the overview of the app: what is required, 
+which functions are needed and so on. In this case, the following is 
+required: model, view, controller, logic and handler. Each file is required
+to run the app successful. 
+
+Then what is needed for building the application: mode, view and logic. 
+
+Then handler is required for the controller to access it. 
+
+Finally add handler which runs the app. 
+
 * Install instructions
-* Ascii file structure
+
+To use the app, user needs to run the index.html and then have an input in
+order to run the app successfully. 
+
+* file structure
+
+Files are strcutured so that each component can be found based on topic. 
+many files and folders that each cintrobute to the running app. 
 
 For each app within the folder:
 * A markdown named after that app
